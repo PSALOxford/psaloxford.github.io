@@ -9,7 +9,7 @@ last_name: Morstyn
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Power Systems Architecture Lab at the University of Oxford. Our research focuses on power systems modelling, control, optimization and electricity market design. 
+  Power Systems Architecture Lab at the University of Oxford. Our research focuses on power system control, optimisation and electricity market design. 
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
