@@ -18,10 +18,10 @@ profile:
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+#announcements:
+#  enabled: true # includes a list of news items
+#  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+#  limit: 5 # leave blank to include all the news in the `_news` folder
 
 #latest_posts:
 #  enabled: true
@@ -31,4 +31,4 @@ announcements:
 
 Power systems are undergoing a fundamental transition due to the rapid adoption of distributed renewable generation, the electrification of heating and transport, and the new availability of customer-level sensing, communications and control.  
 
-The Power Systems Architecture Lab (PSAL), led by [Professor Thomas Morstyn](eng.ox.ac.uk/people/thomas-morstyn), focuses on power system digitalisation and market design as key interlinked enablers of the net-zero transition. This is underpinned by work in systems modelling, control, optimisation, game theory, machine learning, AI and quantum computing. Our group is based within the [Department of Engineering Science](https://eng.ox.ac.uk/) at the University of Oxford.
+The Power Systems Architecture Lab (PSAL), led by [Professor Thomas Morstyn](https://eng.ox.ac.uk/people/thomas-morstyn), focuses on power system digitalisation and market design as key interlinked enablers of the net-zero transition. This is underpinned by work in systems modelling, control, optimisation, game theory, machine learning, AI and quantum computing. Our group is based within the [Department of Engineering Science](https://eng.ox.ac.uk/) at the University of Oxford.
