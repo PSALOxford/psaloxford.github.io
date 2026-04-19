@@ -1,19 +1,19 @@
 ---
 layout: about
-title: Power Systems Architecture Lab
+title: home
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: #<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
-  align: right
+  align: center
   image: cover_pic.png
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Room: IEB 361.40.03</p>
-    <p>Level 3, Information Engineering Building</p>
-    <p>University of Oxford</p>
-    <p>Banbury Road</p>
-    <p>Oxford, OX1 3PJ</p>
+  more_info: #>
+    #<p>Room: IEB 361.40.03</p>
+    #<p>Level 3, Information Engineering Building</p>
+    #<p>University of Oxford</p>
+    #<p>Banbury Road</p>
+    #<p>Oxford, OX1 3PJ</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
