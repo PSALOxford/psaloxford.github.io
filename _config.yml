@@ -6,8 +6,7 @@ title: PSAL # the website title (if blank, full name will be used instead)
 first_name: Thomas
 middle_name: 
 last_name: Morstyn
-contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+contact_note:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Power Systems Architecture Lab at the University of Oxford. Our research focuses on power system control, optimisation and electricity market design. 
 footer_text: >
