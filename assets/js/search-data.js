@@ -3,8 +3,8 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-about",
-    title: "about",
+    id: "nav-power-systems-architecture-lab",
+    title: "Power Systems Architecture Lab",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
@@ -525,7 +525,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/thomas-morstyn", "_blank");
+          window.open("https://www.linkedin.com/in/thomas-morstyn-27b26144", "_blank");
         },
       },{
         id: 'social-scholar',
