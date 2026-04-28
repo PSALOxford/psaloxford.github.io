@@ -7,10 +7,7 @@ github_username: PSALOxford # your GitHub username
 linkedin_username: thomas-morstyn-27b26144 # your LinkedIn username
 # inspirehep_id: 1010907 # Inspire HEP author ID
 # rss_icon: true # comment this line to hide the RSS icon
+research_gate_profile: Thomas-Morstyn # your ResearchGate profile URL
 scholar_userid: nvzgGIcAAAAJ # your Google Scholar ID
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-# custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
-#  logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
-#   title: Custom Social
-#   url: https://www.alberteinstein.com/

@@ -1,14 +1,18 @@
-github_users:
-  - torvalds
-  - alshedivat
-
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - PSALOxford/OPLEM
+  - PSALOxford/MARLEM
+  - PSALOxford/EnhancedCfD
+  - PSALOxford/FICA
+  - PSALOxford/SFLA
+  - PSALOxford/Market-Auction-Modelling
+  - PSALOxford/Datasets--Social-Benefits-and-Network-Costs-of-Heat-Pumps
+  - PSALOxford/Codes--Social-Benefits-and-Network-Costs-of-Heat-Pumps
+  - PSALOxford/llm
+  - PSALOxford/intro_pandapower
+  - PSALOxford/niv-chasing-bm-analysis
+  - PSALOxford/UKM-PS-info-public
+  - EPGOxford/OPEN
+  - floracharbo/hedge
+  - floracharbo/MARL_local_electricity
