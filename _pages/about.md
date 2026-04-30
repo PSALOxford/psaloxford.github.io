@@ -4,10 +4,13 @@ title: Power Systems Architecture Lab
 nav_title: Home
 permalink: /
 subtitle: Working on a smarter grid at the University of Oxford
-banner_image: cover_pic.jpg
+banner_image: people/group_photo.jpg
+#banner_image: cover_pic.jpg
+
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: true
+bottom_banner: cover_pic.jpg
 
 #announcements:
 #  enabled: true # includes a list of news items
@@ -48,7 +51,6 @@ Your content here...
 
 
 -->
-
 
 <div style="text-align: center; margin-top: 2rem;">
   <img src="{{ '/assets/img/logos/PSAL_eng_ox_noborder.jpg' | relative_url }}" alt="PSAL Oxford logo" style="max-width: 400px; width: 100%;">

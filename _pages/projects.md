@@ -10,6 +10,8 @@ display_categories: [Research Areas, Current Projects, Completed Projects]
 horizontal: false
 ---
 
+<!-- Note - project card images should be 220x160 -->
+
 <!-- pages/projects.md -->
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}

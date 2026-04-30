@@ -8,7 +8,7 @@ layout: default
       width: 100vw;
       margin-left: calc(50% - 50vw);
       margin-top: -3rem;
-      height: 320px;
+      height: 400px;
       position: relative;
       margin-bottom: 2rem;
       overflow: hidden;
@@ -30,10 +30,10 @@ layout: default
       position: absolute;
       inset: 0;
       {% comment %}background: linear-gradient(to top, rgba(0, 0, 0, 0.7) 0%, rgba(0, 0, 0, 0.6) 60%, rgba(0, 0, 0, 0.5) 100%);{% endcomment %}
-      background: rgba(0, 0, 0, 0.5) ;
+      background: rgba(0, 0, 0, 0.0) ;
       display: flex;
       align-items: center;
-      justify-content: flex-end;
+      justify-content: flex-start;
       flex-direction: column;
       text-align: center;
       padding: 2rem 3rem;
@@ -41,7 +41,7 @@ layout: default
     .hero-overlay h1 {
       color: #fff;
       font-size: 3.0rem;
-      margin-bottom: 2rem;
+      margin-bottom: 1rem;
       font-weight: {{ page.banner_title_weight | default: '400' }};
     }
     .hero-overlay p {
@@ -138,5 +138,21 @@ layout: default
     {% if site.newsletter and site.newsletter.enabled and site.footer_fixed %}
       {% include newsletter.liquid center=true %}
     {% endif %}
+
   </article>
 </div>
+
+{% if page.bottom_banner %}
+  <div style="
+    width: 100vw;
+    margin-left: calc(50% - 50vw);
+    margin-top: 2rem;
+    margin-bottom: -3rem;
+    height: 200px;
+    overflow: hidden;
+    border-top: 1px solid var(--global-divider-color);
+    line-height: 0;
+  ">
+    <img src="{{ page.bottom_banner | prepend: 'assets/img/' | relative_url }}" alt="" style="width: 100%; height: 100%; object-fit: cover; object-position: center; display: block;">
+  </div>
+{% endif %}
