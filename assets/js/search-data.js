@@ -437,7 +437,22 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-power-systems-modelling",
+          section: "News",},{id: "projects-flexedge-data-driven-cloud-to-edge-computing-for-scalable-near-real-time-local-flexibility-markets",
+          title: 'FleXEdge: Data-Driven Cloud-to-Edge Computing for Scalable Near Real-Time Local Flexibility Markets',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/10_flexedge/";
+            },},{id: "projects-ionate-knowledge-transfer-partnership-ai-powered-control-for-hybrid-intelligent-transformers",
+          title: 'IONATE Knowledge Transfer Partnership: AI-Powered Control for Hybrid Intelligent Transformers',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/11_ionate/";
+            },},{id: "projects-oxford-martin-programme-on-circular-battery-economies",
+          title: 'Oxford Martin Programme on Circular Battery Economies',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/12_circular_battery/";
+            },},{id: "projects-power-systems-modelling",
           title: 'Power Systems Modelling',
           description: "",
           section: "Projects",handler: () => {
@@ -462,21 +477,26 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_energyrev/";
-            },},{id: "projects-benchmarking-quantum-advantage",
-          title: 'Benchmarking Quantum Advantage',
-          description: "",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6_quantum_benchmarking/";
             },},{id: "projects-digest-data-driven-exploration-of-the-carbon-emissions-impact-of-grid-energy-storage",
           title: 'DIGEST: Data-Driven Exploration of the Carbon Emissions Impact of Grid Energy Storage',
           description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/7_digest/";
+              window.location.href = "/projects/6_digest/";
+            },},{id: "projects-benchmarking-quantum-advantage",
+          title: 'Benchmarking Quantum Advantage',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/7_quantum_benchmarking/";
             },},{id: "projects-the-blaise-pascal-quantum-challenge-2025-1st-prize",
           title: 'The Blaise Pascal Quantum Challenge 2025: 1st Prize',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_blaise_pascal/";
+            },},{id: "projects-aria-sageflex-safeguarded-ai-agents-for-grid-edge-flexibility",
+          title: 'ARIA SAGEflex: Safeguarded AI Agents for Grid-Edge Flexibility',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/9_sageflex/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
