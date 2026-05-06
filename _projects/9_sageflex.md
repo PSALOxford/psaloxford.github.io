@@ -32,6 +32,6 @@ The project objectives are:
 
 <h2 class="category">Key outputs</h2>
 <ul>
-    <li> Proposed gradient-based multi-agent proximal learning (GradMAP) for coordinating large populations of flexible grid-edge devices accounting for network constraints and uncertainty {% cite zhou2026gradmap %} </li>
-    <li> Proposes the demonstrates the potential for AI data centres to delivery primary frequency response using reinforcement learning to control real-time power capping across GPU nodes {% cite zhou2026grid %} </li>
+    <li> Gradient-based multi-agent proximal learning (GradMAP) for coordinating large populations of flexible grid-edge devices accounting for network constraints and uncertainty {% cite zhou2026gradmap %} </li>
+    <li> Proposed and demonstrated the potential for AI data centres to delivery primary frequency response using reinforcement learning to control real-time power capping across GPU nodes {% cite zhou2026grid %} </li>
 </ul>
