@@ -34,13 +34,11 @@ nav_order: 8
 
 <!-- Prosperity Partnerships --->
 
-
 <div class="projects">
 <h2 class="category">Consulting</h2>
 </div>
 
 <!-- Consulting in the Following Areas --->
-
 
 <div class="projects">
 <h2 class="category">Licensing</h2>

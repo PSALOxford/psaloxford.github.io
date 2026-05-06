@@ -14,6 +14,7 @@ The International Energy Agency’s 3DEN initiative estimates smart flexibility 
 At the same time, the Advanced Research + Invention Agency (ARIA) launched a programme to develop “gatekeeper” safe AI (Safeguarded AI), with a specific focus on demonstrating its economic value in real-world applications (TA3). This vision perfectly aligns with the need of power systems, which motivates this project.
 
 The project objectives are:
+
  <ol>
     <li>Develop a curriculum of test problems varying in scale and complexity</li>
     <li>Develop a software platform for training, testing, benchmarking and scaling-up MARL-based solutions</li>
@@ -23,7 +24,6 @@ The project objectives are:
  <div style="text-align: center; margin-top: 2rem;">
    <img src="{{ '/assets/img/projects/SAGEflex_wide.png' | relative_url }}" alt="PSAL Oxford logo" style="max-width: 800px; width: 100%;">
  </div>
-
 
 <h2 class="category">Team</h2>
 
@@ -35,4 +35,3 @@ The project objectives are:
     <li> Proposed gradient-based multi-agent proximal learning (GradMAP) for coordinating large populations of flexible grid-edge devices accounting for network constraints and uncertainty {% cite zhou2026gradmap %} </li>
     <li> Proposes the demonstrates the potential for AI data centres to delivery primary frequency response using reinforcement learning to control real-time power capping across GPU nodes {% cite zhou2026grid %} </li>
 </ul>
-

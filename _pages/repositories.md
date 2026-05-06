@@ -3,7 +3,7 @@ layout: page
 permalink: /code-and-data/
 nav_title: Code & Data
 title: Code & Data
-description: 
+description:
 nav: true
 nav_order: 4
 ---

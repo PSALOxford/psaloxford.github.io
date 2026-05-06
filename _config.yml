@@ -4,12 +4,12 @@
 
 title: PSAL # the website title (if blank, full name will be used instead)
 first_name: Thomas
-middle_name: 
+middle_name:
 last_name: Morstyn
 scholar_userid: nvzgGIcAAAAJ
 contact_note:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-   Power Systems Architecture Lab at the University of Oxford. Our research focuses on power system control, optimisation and electricity market design. 
+  Power Systems Architecture Lab at the University of Oxford. Our research focuses on power system control, optimisation and electricity market design.
 footer_text: ""
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)

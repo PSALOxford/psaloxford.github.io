@@ -28,4 +28,3 @@ The project combines power systems modelling, distributed optimisation, and adva
     <li>A strategy for optimal placement of HITs in distribution networks {% cite hayward2025optimal %} </li>
     <li>A real-time HIT control strategy for the simulatneous delivery of multiple grid services, including voltage regulation, phase-balancing and frequency response {% cite doff2026modeling %} </li>
 </ul>
-

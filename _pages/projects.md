@@ -3,7 +3,7 @@ layout: page
 title: Research
 nav_title: Research
 permalink: /projects/
-description: 
+description:
 nav: true
 nav_order: 2
 display_categories: [Research Areas, Current Projects, Completed Projects]
@@ -66,5 +66,3 @@ horizontal: false
   {% endif %}
 {% endif %}
 </div>
-
-

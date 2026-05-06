@@ -5,5 +5,4 @@ importance: 2
 category: Current Projects
 img: assets/img/projects/FleXEdge.png
 redirect: https://psaloxford.github.io/FleXEdge-web/
-
 ---
