@@ -31,6 +31,12 @@
     text-align: right;
   }
 
+  &.related-publications h2.bibliography:first-of-type {
+    border-top: none;
+    padding-top: 0.5rem;
+    margin-top: 0.5rem;
+  }
+
   ol.bibliography {
     list-style: none;
     padding: 0;

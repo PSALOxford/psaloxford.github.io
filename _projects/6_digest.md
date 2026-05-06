@@ -4,4 +4,5 @@ title: "DIGEST: Data-Driven Exploration of the Carbon Emissions Impact of Grid E
 importance: 3
 category: Completed Projects
 redirect: https://epsrc-digest.github.io/
+img: assets/img/projects/Digest.png
 ---

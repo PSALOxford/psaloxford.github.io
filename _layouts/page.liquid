@@ -19,8 +19,8 @@ layout: default
   </article>
 
   {% if page.related_publications %}
-    <h2>References</h2>
-    <div class="publications">
+    <h2 class="category">References</h2>
+    <div class="publications related-publications">
       {% bibliography --cited_in_order %}
     </div>
   {% endif %}

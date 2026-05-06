@@ -13,6 +13,7 @@ nav_order: 7
     align-items: flex-start;
     gap: 1.5rem;
     margin-bottom: 2rem;
+    scroll-margin-top: 80px;
   }
   .person-row img {
     width: 150px;
@@ -46,7 +47,7 @@ nav_order: 7
 
 <h2 class="category">Principal Investigator</h2>
 
-<div class="person-row">
+<div class="person-row" id="thomas-morstyn">
   <img src="{{ '/assets/img/people/Thomas_Morstyn.jpg' | relative_url }}" alt="Thomas Morstyn">
   <div class="person-bio">
     <h5><a href="https://eng.ox.ac.uk/people/thomas-morstyn" target="_blank">Thomas Morstyn</a></h5>
@@ -78,7 +79,7 @@ nav_order: 7
   </div>
 </div>
 
-<div class="person-row">
+<div class="person-row" id="yihong-zhou">
   <img src="{{ '/assets/img/people/Yihong_Zhou.jpg' | relative_url }}" alt="Yihong Zhou">
   <div class="person-bio">
     <h5><a href="https://yihong-zhou.github.io/" target="_blank">Yihong Zhou</a></h5>

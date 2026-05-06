@@ -125,6 +125,15 @@ ul.task-list input[type="checkbox"] {
 
 // Projects
 
+h2.category {
+  color: var(--global-text-color-light);
+  border-bottom: 1px solid var(--global-divider-color);
+  padding-top: 0.5rem;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  text-align: right;
+}
+
 .projects {
   a {
     text-decoration: none;
