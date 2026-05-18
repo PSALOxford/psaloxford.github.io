@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-05-13'
+  last_updated: '2026-05-18'
 papers:
   nvzgGIcAAAAJ:-f6ydRqryjwC:
-    citations: 46
+    citations: 47
     title: Scaling up cooperative game theory-based energy management using prosumer clustering
     year: '2020'
   nvzgGIcAAAAJ:0EnyYjriUFMC:
@@ -14,7 +14,7 @@ papers:
     title: Towards a Distributed Autonomous Organisation for Financing, Governing and Disbursing
     year: '2022'
   nvzgGIcAAAAJ:1sJd4Hv_s6UC:
-    citations: 59
+    citations: 60
     title: Opportunities for quantum computing within net-zero power system optimization
     year: '2024'
   nvzgGIcAAAAJ:2P1L_qKh6hAC:
@@ -22,7 +22,7 @@ papers:
     title: Annealing-based quantum computing for combinatorial optimal power flow
     year: '2022'
   nvzgGIcAAAAJ:2osOgNQ5qMEC:
-    citations: 197
+    citations: 198
     title: Cooperative multi-agent control of heterogeneous storage devices distributed in a DC microgrid
     year: '2015'
   nvzgGIcAAAAJ:35N4QoGY0k4C:
@@ -38,11 +38,11 @@ papers:
     title: 'Local energy markets: From concepts to reality'
     year: '2023'
   nvzgGIcAAAAJ:4DMP91E08xMC:
-    citations: 218
+    citations: 219
     title: Integrating P2P energy trading with probabilistic distribution locational marginal pricing
     year: '2019'
   nvzgGIcAAAAJ:4JMBOYKVnBMC:
-    citations: 85
+    citations: 86
     title: Capturing diversity in electric vehicle charging behaviour for network capacity estimation
     year: '2021'
   nvzgGIcAAAAJ:4OULZ7Gr8RgC:
@@ -70,11 +70,11 @@ papers:
     title: Evaluating and comparing the potentials in primary response for GPU and CPU data centers
     year: '2024'
   nvzgGIcAAAAJ:7PzlFSSx8tAC:
-    citations: 60
+    citations: 61
     title: Conic optimization for electric vehicle station smart charging with battery voltage constraints
     year: '2020'
   nvzgGIcAAAAJ:8AbLer7MMksC:
-    citations: 15
+    citations: 17
     title: Large language model interface for home energy management systems
     year: '2025'
   nvzgGIcAAAAJ:8k81kl-MbHgC:
@@ -106,7 +106,7 @@ papers:
     title: Bilevel transmission expansion planning with joint chance-constrained dispatch
     year: '2025'
   nvzgGIcAAAAJ:D03iK_w7-QYC:
-    citations: 10
+    citations: 11
     title: 'Home electricity data generator (HEDGE): An open-access tool for the generation of electric vehicle, residential demand, and PV generation profiles'
     year: '2024'
   nvzgGIcAAAAJ:D_sINldO8mEC:
@@ -114,7 +114,7 @@ papers:
     title: 'Locating large-scale energy storage: spillover effects, carbon emissions, and balancing costs across Italy'
     year: '2025'
   nvzgGIcAAAAJ:GnPB-g6toBAC:
-    citations: 9
+    citations: 10
     title: Voltage control loss factors for quantifying DG reactive power control impacts on losses and curtailment
     year: '2022'
   nvzgGIcAAAAJ:HDshCWvjkbEC:
@@ -130,7 +130,7 @@ papers:
     title: "Policy & Regulatory Landscape Review Series\u2013Working Paper 2: Digital Energy Platforms"
     year: '2020'
   nvzgGIcAAAAJ:IWHjjKOFINEC:
-    citations: 91
+    citations: 92
     title: 'OPEN: An open-source platform for developing smart local energy system applications'
     year: '2020'
   nvzgGIcAAAAJ:IjCSPb-OGe4C:
@@ -162,7 +162,7 @@ papers:
     title: 'OPLEM: open platform for local energy markets'
     year: '2024'
   nvzgGIcAAAAJ:L8Ckcad2t8MC:
-    citations: 282
+    citations: 284
     title: The opportunity for smart charging to mitigate the impact of electric vehicles on transmission and distribution systems
     year: '2020'
   nvzgGIcAAAAJ:LPZeul_q3PIC:
@@ -170,7 +170,7 @@ papers:
     title: Scalable multi-level optimization for sequentially cleared energy markets with a case study on gas and carbon aware unit commitment
     year: '2025'
   nvzgGIcAAAAJ:LkGwnXOMwfcC:
-    citations: 677
+    citations: 680
     title: Bilateral contract networks for peer-to-peer energy trading
     year: '2018'
   nvzgGIcAAAAJ:M3ejUd6NZC8C:
@@ -194,7 +194,7 @@ papers:
     title: Depreciation cost is a poor proxy for revenue lost to aging in grid storage optimization
     year: '2024'
   nvzgGIcAAAAJ:O3NaXMp0MMsC:
-    citations: 65
+    citations: 66
     title: 'Coordination of resources at the edge of the electricity grid: Systematic review and taxonomy'
     year: '2022'
   nvzgGIcAAAAJ:P5F9QuxV20EC:
@@ -206,11 +206,11 @@ papers:
     title: Peer-to-peer energy trading
     year: '2020'
   nvzgGIcAAAAJ:R3hNpaxXUhUC:
-    citations: 605
+    citations: 610
     title: 'Peer-to-peer energy systems for connected communities: A review of recent advances and emerging challenges'
     year: '2021'
   nvzgGIcAAAAJ:RGFaLdJalmkC:
-    citations: 95
+    citations: 96
     title: 'Resilient by design: Preventing wildfires and blackouts with microgrids'
     year: '2022'
   nvzgGIcAAAAJ:RHpTSmoSYBkC:
@@ -250,7 +250,7 @@ papers:
     title: A blueprint for energy systems in the era of central bank digital currencies
     year: '2024'
   nvzgGIcAAAAJ:Tyk-4Ss8FVUC:
-    citations: 556
+    citations: 557
     title: 'Control strategies for microgrids with distributed energy storage systems: An overview'
     year: '2016'
   nvzgGIcAAAAJ:ULOm3_A8WrAC:
@@ -262,7 +262,7 @@ papers:
     title: Decentralised control method for DC microgrids with improved current sharing accuracy
     year: '2017'
   nvzgGIcAAAAJ:UebtZRa9Y70C:
-    citations: 670
+    citations: 671
     title: Multiclass energy management for peer-to-peer energy trading driven by prosumer preferences
     year: '2018'
   nvzgGIcAAAAJ:UxriW0iASnsC:
@@ -274,15 +274,15 @@ papers:
     title: 'A review of offshore wind seabed allocation in the UK: 2000-2024'
     year: '2024'
   nvzgGIcAAAAJ:W7OEmFMy1HYC:
-    citations: 244
+    citations: 243
     title: Model predictive control for distributed microgrid battery energy storage systems
     year: '2017'
   nvzgGIcAAAAJ:WF5omc3nYNoC:
-    citations: 68
+    citations: 69
     title: Scalable energy management for low voltage microgrids using multi-agent storage system aggregation
     year: '2017'
   nvzgGIcAAAAJ:WbkHhVStYXYC:
-    citations: 4
+    citations: 5
     title: 'Dynamic operating envelopes in distribution networks: A reliable computation'
     year: '2024'
   nvzgGIcAAAAJ:XiSMed-E-HIC:
@@ -298,7 +298,7 @@ papers:
     title: Call-options in peer-to-peer energy markets
     year: '2021'
   nvzgGIcAAAAJ:ZHo1McVdvXMC:
-    citations: 23
+    citations: 24
     title: "Methodology to prepare for UK\u2019s offshore wind contract for difference auctions"
     year: '2023'
   nvzgGIcAAAAJ:ZeXyd9-uunAC:
@@ -306,7 +306,7 @@ papers:
     title: Coordinated electric vehicle charging to reduce losses without network impedances
     year: '2020'
   nvzgGIcAAAAJ:Zph67rFs4hoC:
-    citations: 488
+    citations: 489
     title: A motivational game-theoretic approach for peer-to-peer energy trading in the smart grid
     year: '2019'
   nvzgGIcAAAAJ:_B80troHkn4C:
@@ -330,7 +330,7 @@ papers:
     title: Dynamic optimal power flow for DC microgrids with distributed battery energy storage systems
     year: '2016'
   nvzgGIcAAAAJ:aqlVkmm33-oC:
-    citations: 52
+    citations: 53
     title: The case for Bi-directional charging of electric vehicles in low voltage distribution networks
     year: '2020'
   nvzgGIcAAAAJ:b0M2c_1WBrUC:
@@ -366,11 +366,11 @@ papers:
     title: Stacking revenues from flexible DERs in multi-scale markets using tri-level optimization
     year: '2023'
   nvzgGIcAAAAJ:dhFuZR0502QC:
-    citations: 397
+    citations: 398
     title: Deep reinforcement learning-based energy storage arbitrage with accurate lithium-ion battery degradation model
     year: '2020'
   nvzgGIcAAAAJ:eJXPG6dFmWUC:
-    citations: 30
+    citations: 32
     title: A new definition and research agenda for demand response in the distributed energy resource era
     year: '2025'
   nvzgGIcAAAAJ:eMMeJKvmdy0C:
@@ -378,13 +378,17 @@ papers:
     title: Flexible cooperative game theory tool for peer-to-peer energy trading analysis
     year: '2018'
   nvzgGIcAAAAJ:eQOLeE2rZwMC:
-    citations: 248
+    citations: 247
     title: Multi-agent sliding mode control for state of charge balancing between battery energy storage systems distributed in a DC microgrid
     year: '2017'
   nvzgGIcAAAAJ:eflP2zaiRacC:
     citations: 4
     title: Optimal PMU Placement via Quantum Optimization
     year: '2025'
+  nvzgGIcAAAAJ:eq2jaN3J8jMC:
+    citations: 0
+    title: JAX-Based Batched AC Power Flow for GPU Acceleration and AI Ecosystem Integration
+    year: '2026'
   nvzgGIcAAAAJ:fPk4N6BV_jEC:
     citations: 0
     title: Perth West As A Case Study For The Value Of Greenfield Smart Local Energy Systems
@@ -396,7 +400,7 @@ papers:
   nvzgGIcAAAAJ:geHnlv5EZngC:
     citations: 5
     title: Strengthened and faster linear approximation to joint chance constraints with wasserstein ambiguity
-    year: '2024'
+    year: '2026'
   nvzgGIcAAAAJ:hC7cP41nSMkC:
     citations: 41
     title: Distorted stability space and instability triggering mechanism of EV aggregation delays in the secondary frequency regulation of electrical grid-electric vehicle system
@@ -458,7 +462,7 @@ papers:
     title: Aggregated feasible active power region for distributed energy resources with a distributionally robust joint probabilistic guarantee
     year: '2024'
   nvzgGIcAAAAJ:ns9cj8rnVeAC:
-    citations: 92
+    citations: 94
     title: Scalable multi-agent reinforcement learning for distributed control of residential energy flexibility
     year: '2022'
   nvzgGIcAAAAJ:olpn-zPbct0C:
@@ -490,7 +494,7 @@ papers:
     title: Active players in local energy markets
     year: '2023'
   nvzgGIcAAAAJ:roLk4NBRz8UC:
-    citations: 1012
+    citations: 1016
     title: Using peer-to-peer energy-trading platforms to incentivize prosumers to form federated power plants
     year: '2018'
   nvzgGIcAAAAJ:sSrBHYA8nusC:
