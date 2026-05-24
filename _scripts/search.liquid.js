@@ -90,7 +90,7 @@ ninja.data = [
           id: "{{ collection.label }}-{{ title | slugify }}",
           title: '{{ title | escape | emojify | truncatewords: 13 }}',
           description: "{{ item.description | strip_html | strip_newlines | escape | strip }}",
-          section: "{{ collection.label | capitalize }}",
+          section: "{% if item.category %}{{ item.category }}{% else %}{{ collection.label | capitalize }}{% endif %}",
           {%- unless item.inline -%}
             handler: () => {
               window.location.href = "{{ item.url | relative_url }}";
