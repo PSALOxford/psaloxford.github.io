@@ -52,7 +52,7 @@ nav_order: 7
   <div class="person-bio">
     <h5><a href="https://eng.ox.ac.uk/people/thomas-morstyn" target="_blank">Thomas Morstyn</a></h5>
     <p class="position">Associate Professor in Power Systems</p>
-    <p> Thomas leads the Power Systems Architecture Lab. He is also a Tutorial Fellow at Hertford College, an Honorary Fellow at the University of Edinburgh, Associate Editor of IEEE Transactions on Power Systems, and Co-Chair of the IEEE Power & Energy Society Task Force on Systems Modelling for Electricity Market Design. He received the BEng (Hon.) degree from the University of Melbourne in 2011, and the PhD degree from the University of New South Wales in 2016, both in electrical engineering. Previously, he was a lecturer at the University of Edinburgh and worked in Rio Tinto’s Technology and Innovation group.
+    <p> Professor Thomas Morstyn leads the Power Systems Architecture Lab. He is also a Tutorial Fellow at Hertford College, an Honorary Fellow at the University of Edinburgh, Associate Editor of IEEE Transactions on Power Systems, and Co-Chair of the IEEE Power & Energy Society Task Force on Systems Modelling for Electricity Market Design. He received the BEng (Hon.) degree from the University of Melbourne in 2011, and the PhD degree from the University of New South Wales in 2016, both in electrical engineering. Previously, he was a lecturer at the University of Edinburgh and worked in Rio Tinto’s Technology and Innovation group.
     </p>
   </div>
 </div>
@@ -65,8 +65,7 @@ nav_order: 7
     <h5><a href="https://eng.ox.ac.uk/people/yuxin-xia" target="_blank">Yuxin Xia</a></h5>
     <p class="position">Postdoctoral Research Associate</p>
     <p>
-    Yuxin Xia works on the Oxford Martin Programme on Circular Battery Economies. She obtained her PhD from the University of Edinburgh in 2025, where she worked on bilevel and multi-level optimisation for power systems. She also holds an MSc in Control Systems from Imperial College London, completed in 2020. Her broader research interests include renewable energy integration, energy storage, network investment, techno-economic analysis, and optimisation of energy systems.
-    </p>
+  Dr Yuxin Xia is a Postdoctoral Researcher in the Department of Engineering Science at the University of Oxford, working on the Oxford Martin Programme on Circular Battery Economies. Her research explores pathways towards a sustainable and equitable battery circular economy, focusing on the potential value and system impacts of second-life battery applications in power systems. She obtained her PhD from the University of Edinburgh in 2025 and her MSc in Control Systems from Imperial College London in 2020. Her wider research focuses on power system optimisation and planning, with a particular interest in renewable energy and energy storage integration.    </p>
   </div>
 </div>
 
@@ -80,13 +79,12 @@ nav_order: 7
 </div>
 
 <div class="person-row" id="yihong-zhou">
-  <img src="{{ '/assets/img/people/Yihong_Zhou.jpg' | relative_url }}" alt="Yihong Zhou">
+  <img src="{{ '/assets/img/people/Yihong_Zhou.png' | relative_url }}" alt="Yihong Zhou">
   <div class="person-bio">
     <h5><a href="https://yihong-zhou.github.io/" target="_blank">Yihong Zhou</a></h5>
     <p class="position">Postdoctoral Research Associate</p>
     <p>
-    Yihong's research focuses on scalable and reliable decision-making methods for power system operation, including probabilistic safety guarantees through chance constraints and robust optimization under distribution shift, at the intersection of optimization and AI. He is also interested in the role of emerging resources (such as data centres) in future power systems, together with their broader policy and societal implications, including impacts on fuel poverty. Yihong completed his PhD at the University of Edinburgh in 2025, and he was also a Visiting PhD Student at Oxford from 2024 to 2025.
-    </p>
+  Dr Yihong Zhou is a postdoctoral researcher working on AI and optimisation methods that can reliably scale up to solve large-scale power grid challenges. Future power systems will not be operated simply by adding more forecasting tools and control dashboards. They will need a new algorithmic layer that turns millions of grid-edge devices and AI-supporting data centres into "grid-intelligent" assets that operators can trust. This ambition forms the foundation of his research. He has recently completed the ARIA SAGEflex project on safeguarded AI agents for grid-edge flexibility, and is also involved in the IONATE Knowledge Transfer Partnership on AI-powered control for hybrid intelligent transformers.    </p>
   </div>
 </div>
 
