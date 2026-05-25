@@ -44,7 +44,7 @@ We are committed to seeing our research translated to practical application and 
 <h2 class="category">Consulting and Expert Advice</h2>
 </div>
 
-Professor Morstyn and members of PSAL offer consulting and expert advice to industry, government, and regulatory bodies on power systems and electricity markets. Engagements can range from short technical engagements to sustained advisory roles. Please <a href="mailto:thomas.morstyn@eng.ox.ac.uk?subject=Consulting / Expert Advice Enquiry: ">contact us</a> to discuss your needs.
+Professor Morstyn and members of PSAL offer consulting and expert advice to industry, government, and regulatory bodies on power systems and electricity markets. This can range from short technical engagements to sustained advisory roles. Please <a href="mailto:thomas.morstyn@eng.ox.ac.uk?subject=Consulting / Expert Advice Enquiry: ">contact us</a> to discuss your needs.
 
 <!-- Consulting in the Following Areas --->
 
