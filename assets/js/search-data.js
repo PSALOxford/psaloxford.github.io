@@ -73,6 +73,11 @@ ninja.data = [{
           description: "",
           section: "Current Projects",handler: () => {
               window.location.href = "/projects/12_circular_battery/";
+            },},{id: "projects-the-impacts-of-non-physical-traders-on-the-great-britain-power-system",
+          title: 'The Impacts of Non-Physical Traders on the Great Britain Power System',
+          description: "",
+          section: "Current Projects",handler: () => {
+              window.location.href = "/projects/13_outlook_NPT/";
             },},{id: "projects-power-systems-modelling",
           title: 'Power Systems Modelling',
           description: "",
