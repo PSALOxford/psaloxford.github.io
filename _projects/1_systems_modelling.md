@@ -15,7 +15,7 @@ To help advance interdisciplinary research and industry--academic--government co
 
 <h2 class="category">Key Research Streams</h2>
 
-<b>GPU-accelerated Power Flow Simulation</b>: We proposed and developed a nonlinear AC power flow solver implemented in JAX, enabling large-scale parallel scenario analysis and data generation for machine learning.
+<b>GPU-accelerated Power Flow Simulation</b>: We proposed and developed a nonlinear AC power flow solver implemented in JAX, enabling large-scale parallel scenario analysis and data generation for machine learning {% cite zhou2025jax %}.
 
 <b>High-fidelity Great Britain (GB) Transmission Network and Balancing Mechanism Modelling:</b> We have developed an open-source [1900-node model](https://github.com/PSALOxford/EnhancedCfD) of GB's transmission network combining data from NESO's Electricity Ten-Year Statement with unit-level market data from Elexon. This has been used to investigate the impact of grid energy storage on balancing costs and carbon emissions {% cite nosratabadi2024impact %}, the value of locational adjustments for renewable contracts-for-difference {% cite savelli2022putting %}, and the value of electric vehicle smart charging for alleviating transmission and distribution network reinforcements {% cite crozier2020opportunity %}.
 
