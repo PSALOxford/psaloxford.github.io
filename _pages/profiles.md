@@ -131,7 +131,8 @@ nav_order: 7
   <div class="person-bio">
     <h5>Xiangyue (Max) Wang</h5>
     <p class="position">DPhil Student</p>
-    <p></p>
+    <p>Xiangyue Wang is a DPhil student in the Oxford Power System Architecture Lab (PSAL). His research focuses on quantum computing for optimization in high-renewable power grids. He explores ways to utilize currently available quantum computers to speed up large-scale optimization problems such as optimal power flow that are critical to renewable integration. He won the 2025 international quantum hackathon, Blaise Pasqal Quantum Challenge, with a team of primarily PSAL members. He received his master's degree in data science from New York University, and his undergraduate degree from Rutgers University, where he majored in math, physics and minored in philosophy.
+</p>
   </div>
 </div>
 
