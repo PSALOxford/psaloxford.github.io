@@ -13,7 +13,6 @@ nav_order: 7
     align-items: flex-start;
     gap: 1.5rem;
     margin-bottom: 2rem;
-    scroll-margin-top: 80px;
   }
   .person-row img {
     width: 150px;
