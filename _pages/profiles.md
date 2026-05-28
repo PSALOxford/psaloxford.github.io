@@ -121,7 +121,7 @@ nav_order: 7
   <div class="person-bio">
     <h5>David Smith</h5>
     <p class="position">DPhil Student</p>
-    <p></p>
+    <p>David Smith is a DPhil student in Engineering Science at Oxford, focusing on machine learning applications to power systems. His research integrates weather data into machine learning models to address congestion, uncertainty, and efficiency in electricity grids, in collaboration with the European Space Agency's Dragon Programme. Before Oxford, David spent several years in industry across data science and software engineering, working in the remote sensing and satellite data sector. He holds a Master's in computer science and a Bachelor's in aerospace engineering, and previously interned at ESA applying machine learning to large-scale remote sensing problems.</p>
   </div>
 </div>
 
