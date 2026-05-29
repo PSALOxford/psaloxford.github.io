@@ -71,7 +71,7 @@ nav_order: 7
 <div class="person-row">
   <img src="{{ '/assets/img/people/Hongtai_Zeng.jpg' | relative_url }}" alt="Hongtai Zeng">
   <div class="person-bio">
-    <h5>Hongtai Zeng</h5>
+    <h5><a href="https://www.linkedin.com/in/hongtai-zeng-a2134a386/" target="_blank">Hongtai Zeng</a></h5>
     <p class="position">Postdoctoral Research Associate</p>
     <p>Dr Hongtai Zeng is a Postdoctoral Researcher in the Department of Engineering Science at the University of Oxford. He received his PhD from Tsinghua University in 2025. He is currently working on the EPSRC FleXEdge project, which aims to develop distributed machine learning methods for the large-scale, near real-time coordination of grid-edge flexibility resources. His broader research interests include power system optimisation under uncertainty, with a focus on resilient power systems under climate risks, the design of computationally efficient optimisation methods, and the application of machine learning to complex decision-making problems in modern energy systems.</p>
   </div>
