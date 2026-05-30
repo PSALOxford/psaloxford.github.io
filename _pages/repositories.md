@@ -38,17 +38,6 @@ nav_order: 4
 
 <div class="projects">
 
-{% if site.data.repositories.github_repos %}
-
-<h2 class="category">GitHub Repositories</h2>
-
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% for repo in site.data.repositories.github_repos %}
-    {% include repository/repo.liquid repository=repo %}
-  {% endfor %}
-</div>
-{% endif %}
-
 <h2 class="category">Notebooks</h2>
 
 <div class="row row-cols-1 row-cols-md-3">
@@ -74,5 +63,17 @@ nav_order: 4
     </a>
   </div>
 </div>
+
+{% if site.data.repositories.github_repos %}
+
+<h2 class="category">GitHub Repositories</h2>
+
+<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
+  {% for repo in site.data.repositories.github_repos %}
+    {% include repository/repo.liquid repository=repo %}
+  {% endfor %}
+</div>
+{% endif %}
+
 
 </div>
