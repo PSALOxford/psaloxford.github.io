@@ -151,6 +151,11 @@ h2.category {
       height: 160px;
       object-fit: cover;
     }
+
+    img.card-img-contain {
+      object-fit: contain;
+      background-color: white;
+    }
   }
 
   .col {
