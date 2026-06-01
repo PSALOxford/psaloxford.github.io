@@ -112,7 +112,7 @@ nav_order: 7
   <div class="person-bio">
     <h5>Erik Millar</h5>
     <p class="position">DPhil Student</p>
-    <p></p>
+    <p>Erik Millar's research focuses on quantum optimisation algorithms for power system operation, with a particular interest in neutral-atom quantum computers. He studies how mixed-integer problems such as unit commitment and transmission switching can be formulated for quantum and hybrid quantum-classical methods, while using classical optimisation as a benchmark. Before starting his DPhil, he completed an MSc in Energy Systems at Oxford, and founded a company building DAC technology in the US.</p>
   </div>
 </div>
 
