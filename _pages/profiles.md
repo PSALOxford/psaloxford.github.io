@@ -103,7 +103,7 @@ nav_order: 7
   <div class="person-bio">
     <h5>Joseph Cary</h5>
     <p class="position">DPhil Student</p>
-    <p></p>
+    <p>Joseph Cary's research focuses on the role of arbitrageurs on the short-term power markets in Great Britain, with wider application and relevance of my work to European markets. Specifically, is investigating whether taking speculative imbalance positions (known as NIV chasing or statistical arbitrage) benefits system balancing and wider market efficiency, and the role of speculative traders in ensuring interconnector flows post-Brexit. His wider interests are in electricity market design, storage, and policy analysis.</p>
   </div>
 </div>
 
