@@ -94,7 +94,7 @@ nav_order: 7
   <div class="person-bio">
     <h5>Patrick Avis</h5>
     <p class="position">DPhil Student</p>
-    <p></p>
+    <p>Patrick Avis is a part-time DPhil student in Engineering Science at the University of Oxford, whose research focuses on the modelling and optimisation of short-term electricity markets, with particular emphasis on intraday market dynamics. His current work examines imbalance forecasting and the role of model complexity in predictive performance. His broader interests include power generation optimisation, electricity system balancing, and inefficiencies in market design. He pursues his doctorate alongside a twenty-year career in energy and commodity trading and holds an MSc in Quantitative Finance.</p>
   </div>
 </div>
 
