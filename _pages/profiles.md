@@ -83,7 +83,7 @@ nav_order: 7
     <h5><a href="https://yihong-zhou.github.io/" target="_blank">Yihong Zhou</a></h5>
     <p class="position">Postdoctoral Research Associate</p>
     <p>
-  Dr Yihong Zhou is a postdoctoral researcher working on AI and optimisation methods that can reliably scale up to solve large-scale power grid challenges. Future power systems will not be operated simply by adding more forecasting tools and control dashboards. They will need a new algorithmic layer that turns millions of grid-edge devices and AI-supporting data centres into "grid-intelligent" assets that operators can trust. This ambition forms the foundation of his research. He has recently completed the ARIA SAGEflex project on safeguarded AI agents for grid-edge flexibility, and is also involved in the IONATE Knowledge Transfer Partnership on AI-powered control for hybrid intelligent transformers.    </p>
+  Dr Yihong Zhou is a postdoctoral research associate working on AI and optimisation methods that can reliably scale up to solve large-scale power grid challenges. Future power systems will not be operated simply by adding more forecasting tools and control dashboards. They will need a new algorithmic layer that turns millions of grid-edge devices and AI-supporting data centres into "grid-intelligent" assets that operators can trust. This ambition forms the foundation of his research. He has recently completed the ARIA SAGEflex project on safeguarded AI agents for grid-edge flexibility, and is also involved in the IONATE Knowledge Transfer Partnership on AI-powered control for hybrid intelligent transformers.    </p>
   </div>
 </div>
 
