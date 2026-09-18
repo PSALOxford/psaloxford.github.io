@@ -135,6 +135,8 @@ nav_order: 7
   </div>
 </div>
 
+<h2 class="category">Visitors</h2>
+
 <div class="person-row">
   <img src="{{ '/assets/img/people/Haoyuan_Deng.jpg' | relative_url }}" alt="Haoyuan Deng">
   <div class="person-bio">
