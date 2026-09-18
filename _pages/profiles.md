@@ -135,6 +135,17 @@ nav_order: 7
   </div>
 </div>
 
+<h2 class="category">Visitors</h2>
+
+<div class="person-row">
+  <img src="{{ '/assets/img/people/Haoyuan_Deng.jpg' | relative_url }}" alt="Haoyuan Deng">
+  <div class="person-bio">
+    <h5>Haoyuan Deng</h5>
+    <p class="position">Visiting PhD Student</p>
+    <p>Haoyuan Deng is a visiting PhD student in the Power Systems Architecture Lab at the University of Oxford and a PhD candidate in Electrical and Computer Engineering at the University of Hong Kong. His research focuses on reinforcement learning and machine learning applications in power systems, particularly the optimal dispatch of distributed energy resources within local energy communities.</p>
+  </div>
+</div>
+
 <h2 class="category">Alumni &amp; Past Visitors</h2>
 
 <div class="person-row">
