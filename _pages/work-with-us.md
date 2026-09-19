@@ -59,7 +59,7 @@ Our licensable technologies are listed below:
 <ul>
 #<li><b><a href="https://innovation.ox.ac.uk/licence-details/gridflexdc-intelligent-power-system-optimisation-ai-data-centres">GridFlexDC</a></b> (patent pending) enables AI data centres to deliver fast timescale power flexibility, including high-value frequeny regulation services. Reinforcement learning controls GPU power capping with sub-second resolution to deliver flexibility while minimising the impact on computing quality-of-service. Please <a href="mailto:thomas.morstyn@eng.ox.ac.uk?subject=GridFlexDC Enquiry: ">get in touch</a> if you are interested in commercialising GridFlexDC.</li>
 </ul>
--->
+--->
 <div class="projects">
 <h2 class="category">Support Our Research</h2>
 </div>
