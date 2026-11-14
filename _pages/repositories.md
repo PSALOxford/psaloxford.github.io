@@ -95,8 +95,6 @@ nav_order: 4
 
 </div>
 
-
-
 <h2 class="category">Notebooks</h2>
 
 <div class="row row-cols-1 row-cols-md-4">
@@ -131,6 +129,5 @@ nav_order: 4
   {% endfor %}
 </div>
 {% endif %}
-
 
 </div>
