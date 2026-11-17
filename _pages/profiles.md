@@ -47,34 +47,16 @@ nav_order: 7
     flex: 1;
     min-width: 0;
   }
-  .person-photo-pair {
-    display: flex;
-    flex-direction: column;
-    gap: 0.8rem;
+  .person-photo-featured {
     width: 150px;
     min-width: 150px;
   }
-  .person-photo-pair figure {
-    min-width: 0;
+  .person-photo-featured figure {
     margin: 0;
   }
-  .person-photo-pair figure:last-child {
-    width: 100%;
-  }
-  .person-row .person-photo-pair img {
-    width: 100%;
-    min-width: 0;
-    object-fit: cover;
+  .person-row .person-photo-featured img {
     border: 1px solid var(--global-divider-color);
-    border-radius: 6px;
     box-shadow: 0 8px 20px rgba(0, 0, 0, 0.12);
-  }
-  .person-row .person-photo-pair .person-photo-main {
-    height: 200px;
-    object-position: 50% 32%;
-  }
-  .person-row .person-photo-pair .person-photo-secondary {
-    height: 200px;
     object-position: 50% 42%;
   }
   .person-bio .person-links {
@@ -95,16 +77,6 @@ nav_order: 7
     .person-row-featured {
       flex-direction: column;
       gap: 1.25rem;
-    }
-    .person-photo-pair {
-      width: 150px;
-      min-width: 150px;
-    }
-    .person-row .person-photo-pair .person-photo-main {
-      height: 200px;
-    }
-    .person-row .person-photo-pair .person-photo-secondary {
-      height: 200px;
     }
   }
 </style>
@@ -205,16 +177,9 @@ nav_order: 7
 <h2 class="category">Enterprise Residence</h2>
 
 <div class="person-row person-row-featured" id="alexandria-procter">
-  <div class="person-photo-pair">
-    {% include figure.liquid
-      path="/assets/img/people/Alexandria_Procter_graduation.jpg"
-      class="person-photo-main"
-      alt="Alexandria Procter wearing an Oxford graduation cap"
-      sizes="150px"
-    %}
+  <div class="person-photo-featured">
     {% include figure.liquid
       path="/assets/img/people/Alexandria_Procter_portrait.jpg"
-      class="person-photo-secondary"
       alt="Portrait of Alexandria Procter outdoors"
       sizes="150px"
     %}
