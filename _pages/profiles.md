@@ -40,6 +40,73 @@ nav_order: 7
     font-size: 1rem;
     margin: 0;
   }
+  .person-row-featured {
+    gap: 2rem;
+  }
+  .person-row-featured .person-bio {
+    flex: 1;
+    min-width: 0;
+  }
+  .person-photo-pair {
+    display: flex;
+    flex-direction: column;
+    gap: 0.8rem;
+    width: 150px;
+    min-width: 150px;
+  }
+  .person-photo-pair figure {
+    min-width: 0;
+    margin: 0;
+  }
+  .person-photo-pair figure:last-child {
+    width: 100%;
+  }
+  .person-row .person-photo-pair img {
+    width: 100%;
+    min-width: 0;
+    object-fit: cover;
+    border: 1px solid var(--global-divider-color);
+    border-radius: 6px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.12);
+  }
+  .person-row .person-photo-pair .person-photo-main {
+    height: 200px;
+    object-position: 50% 32%;
+  }
+  .person-row .person-photo-pair .person-photo-secondary {
+    height: 200px;
+    object-position: 50% 42%;
+  }
+  .person-bio .person-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.25rem 0.55rem;
+    margin: 0.35rem 0 0.9rem;
+    font-size: 0.9rem;
+  }
+  .person-links a {
+    text-decoration: underline;
+    text-underline-offset: 0.15em;
+  }
+  .person-bio-copy p + p {
+    margin-top: 0.8rem;
+  }
+  @media (max-width: 767px) {
+    .person-row-featured {
+      flex-direction: column;
+      gap: 1.25rem;
+    }
+    .person-photo-pair {
+      width: 150px;
+      min-width: 150px;
+    }
+    .person-row .person-photo-pair .person-photo-main {
+      height: 200px;
+    }
+    .person-row .person-photo-pair .person-photo-secondary {
+      height: 200px;
+    }
+  }
 </style>
 
 <div class="projects">
@@ -132,6 +199,44 @@ nav_order: 7
     <p class="position">DPhil Student</p>
     <p>Xiangyue Wang is a DPhil student in the Oxford Power System Architecture Lab (PSAL). His research focuses on quantum computing for optimization in high-renewable power grids. He explores ways to utilize currently available quantum computers to speed up large-scale optimization problems such as optimal power flow that are critical to renewable integration. He won the 2025 international quantum hackathon, Blaise Pasqal Quantum Challenge, with a team of primarily PSAL members. He received his master's degree in data science from New York University, and his undergraduate degree from Rutgers University, where he majored in math, physics and minored in philosophy.
 </p>
+  </div>
+</div>
+
+<h2 class="category">Enterprise Residence</h2>
+
+<div class="person-row person-row-featured" id="alexandria-procter">
+  <div class="person-photo-pair">
+    {% include figure.liquid
+      path="/assets/img/people/Alexandria_Procter_graduation.jpg"
+      class="person-photo-main"
+      alt="Alexandria Procter wearing an Oxford graduation cap"
+      sizes="150px"
+    %}
+    {% include figure.liquid
+      path="/assets/img/people/Alexandria_Procter_portrait.jpg"
+      class="person-photo-secondary"
+      alt="Portrait of Alexandria Procter outdoors"
+      sizes="150px"
+    %}
+  </div>
+  <div class="person-bio">
+    <h5>Alexandria Procter</h5>
+    <p class="position">Founder-in-Residence</p>
+    <p class="person-links" aria-label="Contact Alexandria Procter">
+      <a href="mailto:alexandria.procter@eng.ox.ac.uk">Email</a>
+      <span aria-hidden="true">·</span>
+      <a href="http://alexandriaprocter.com" target="_blank" rel="noopener noreferrer">Website</a>
+      <span aria-hidden="true">·</span>
+      <a href="https://www.linkedin.com/in/alexandriaprocter/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+    </p>
+    <div class="person-bio-copy">
+      <p>Alexandria Procter is Founder-in-Residence at the Power Systems Architecture Lab (PSAL) and the ZERO Institute at the University of Oxford. She works with Professor Thomas Morstyn and Dr Yihong Zhou to commercialise research from the lab, developing a venture focused on intelligent power orchestration and energy optimisation for AI data centres.</p>
+      <p>Alexandria holds an MSc in Sustainability, Enterprise and the Environment from the University of Oxford (2026), completed on a fully funded merit scholarship, and a BSc from the University of Cape Town (2016). She is an entrepreneur, investor and author with experience in technology, venture capital and public-sector leadership.</p>
+      <p>She founded DigsConnect, a student accommodation technology platform that exited in 2026. Under her leadership, DigsConnect grew into an international marketplace listing more than one million beds. She also launched Pharos Ventures, an early-stage impact investment venture capital firm backing startups in developing economies, which deployed its first fund in 2025.</p>
+      <p>In public service, Alexandria was appointed by the President of South Africa to the board of the National Youth Development Agency, where she served from 2021 to 2025. She launched initiatives including <em>One Million for Democracy</em>, a youth voter-registration campaign, and assisted with drafting amendments to bills in Parliament. She has represented South Africa at the G20 and COP28 and has written on economic development for the <em>Mail &amp; Guardian</em> and <em>Sunday Times</em>.</p>
+      <p>She also serves on the board of Sentech SOC, South Africa's state-owned telecommunications and signal distribution company, and chairs its Investment Committee. She is the youngest person to hold the position. Her first book, <em>Upstart</em> (2024), became a national bestseller in South Africa. She also presents a video series on founders, emerging technologies and innovation across the University of Oxford's entrepreneurial ecosystem.</p>
+      <p>Her TED Talk, <em>Blame Yourself and Preserve Your Agency</em>, was delivered in Cape Town in July 2026. She has appeared on the covers of <em>Forbes</em> and <em>Fast Company</em>, spoken at the Franschhoek Literary Festival, and received several startup and entrepreneurship awards. At the festival, she was the highest-selling author represented by her publisher.</p>
+    </div>
   </div>
 </div>
 
