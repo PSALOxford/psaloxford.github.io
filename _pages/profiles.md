@@ -70,9 +70,6 @@ nav_order: 7
     text-decoration: underline;
     text-underline-offset: 0.15em;
   }
-  .person-bio-copy p + p {
-    margin-top: 0.8rem;
-  }
   @media (max-width: 767px) {
     .person-row-featured {
       flex-direction: column;
@@ -174,7 +171,7 @@ nav_order: 7
   </div>
 </div>
 
-<h2 class="category">Enterprise Residence</h2>
+<h2 class="category">Entrepreneur in Residence</h2>
 
 <div class="person-row person-row-featured" id="alexandria-procter">
   <div class="person-photo-featured">
@@ -186,7 +183,7 @@ nav_order: 7
   </div>
   <div class="person-bio">
     <h5>Alexandria Procter</h5>
-    <p class="position">Founder-in-Residence</p>
+    <p class="position">Entrepreneur in Residence</p>
     <p class="person-links" aria-label="Contact Alexandria Procter">
       <a href="mailto:alexandria.procter@eng.ox.ac.uk">Email</a>
       <span aria-hidden="true">·</span>
@@ -194,14 +191,7 @@ nav_order: 7
       <span aria-hidden="true">·</span>
       <a href="https://www.linkedin.com/in/alexandriaprocter/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
     </p>
-    <div class="person-bio-copy">
-      <p>Alexandria Procter is Founder-in-Residence at the Power Systems Architecture Lab (PSAL) and the ZERO Institute at the University of Oxford. She works with Professor Thomas Morstyn and Dr Yihong Zhou to commercialise research from the lab, developing a venture focused on intelligent power orchestration and energy optimisation for AI data centres.</p>
-      <p>Alexandria holds an MSc in Sustainability, Enterprise and the Environment from the University of Oxford (2026), completed on a fully funded merit scholarship, and a BSc from the University of Cape Town (2016). She is an entrepreneur, investor and author with experience in technology, venture capital and public-sector leadership.</p>
-      <p>She founded DigsConnect, a student accommodation technology platform that exited in 2026. Under her leadership, DigsConnect grew into an international marketplace listing more than one million beds. She also launched Pharos Ventures, an early-stage impact investment venture capital firm backing startups in developing economies, which deployed its first fund in 2025.</p>
-      <p>In public service, Alexandria was appointed by the President of South Africa to the board of the National Youth Development Agency, where she served from 2021 to 2025. She launched initiatives including <em>One Million for Democracy</em>, a youth voter-registration campaign, and assisted with drafting amendments to bills in Parliament. She has represented South Africa at the G20 and COP28 and has written on economic development for the <em>Mail &amp; Guardian</em> and <em>Sunday Times</em>.</p>
-      <p>She also serves on the board of Sentech SOC, South Africa's state-owned telecommunications and signal distribution company, and chairs its Investment Committee. She is the youngest person to hold the position. Her first book, <em>Upstart</em> (2024), became a national bestseller in South Africa. She also presents a video series on founders, emerging technologies and innovation across the University of Oxford's entrepreneurial ecosystem.</p>
-      <p>Her TED Talk, <em>Blame Yourself and Preserve Your Agency</em>, was delivered in Cape Town in July 2026. She has appeared on the covers of <em>Forbes</em> and <em>Fast Company</em>, spoken at the Franschhoek Literary Festival, and received several startup and entrepreneurship awards. At the festival, she was the highest-selling author represented by her publisher.</p>
-    </div>
+    <p>Alexandria Procter is Entrepreneur in Residence at the Power Systems Architecture Lab and the ZERO Institute at the University of Oxford. She works with Professor Thomas Morstyn and Dr Yihong Zhou to commercialise research on intelligent power orchestration and energy optimisation for AI data centres. Alexandria holds an MSc in Sustainability, Enterprise and the Environment from Oxford and a BSc from the University of Cape Town. She founded DigsConnect, an international student accommodation marketplace, and Pharos Ventures, an early-stage impact investment firm. She has served on the boards of South Africa's National Youth Development Agency and Sentech SOC. Her first book, <em>Upstart</em>, became a national bestseller in South Africa.</p>
   </div>
 </div>
 
