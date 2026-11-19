@@ -138,6 +138,15 @@ nav_order: 7
 <h2 class="category">Visitors</h2>
 
 <div class="person-row">
+  <img src="{{ '/assets/img/people/Xu_Zhou.jpg' | relative_url }}" alt="Xu Zhou">
+  <div class="person-bio">
+    <h5>Xu Zhou</h5>
+    <p class="position">Academic Visitor</p>
+    <p>Dr. Xu Zhou is an Academic Visitor at the Oxford PSAL, and a Postdoctoral Research Associate in the Dyson School of Design Engineering at Imperial College London, focusing on the AI-based decentralized mechanism design and analytics in the electricity and local flexibility markets. Previously, she was a Research Fellow at University College London. She received her PhD in Control Science and Engineering from Beijing Institute of Technology in 2022. Her research interests lie at the intersection of distributed optimization, robust and stochastic optimization, optimal control, game theory, data-driven methodologies, and their applications to multi-energy systems and energy markets.</p>
+  </div>
+</div>
+
+<div class="person-row">
   <img src="{{ '/assets/img/people/Haoyuan_Deng.jpg' | relative_url }}" alt="Haoyuan Deng">
   <div class="person-bio">
     <h5>Haoyuan Deng</h5>
