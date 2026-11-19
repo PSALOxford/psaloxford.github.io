@@ -40,6 +40,42 @@ nav_order: 7
     font-size: 1rem;
     margin: 0;
   }
+  .person-row-featured {
+    gap: 2rem;
+  }
+  .person-row-featured .person-bio {
+    flex: 1;
+    min-width: 0;
+  }
+  .person-photo-featured {
+    width: 150px;
+    min-width: 150px;
+  }
+  .person-photo-featured figure {
+    margin: 0;
+  }
+  .person-row .person-photo-featured img {
+    border: 1px solid var(--global-divider-color);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.12);
+    object-position: 50% 42%;
+  }
+  .person-bio .person-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.25rem 0.55rem;
+    margin: 0.35rem 0 0.9rem;
+    font-size: 0.9rem;
+  }
+  .person-links a {
+    text-decoration: underline;
+    text-underline-offset: 0.15em;
+  }
+  @media (max-width: 767px) {
+    .person-row-featured {
+      flex-direction: column;
+      gap: 1.25rem;
+    }
+  }
 </style>
 
 <div class="projects">
@@ -132,6 +168,30 @@ nav_order: 7
     <p class="position">DPhil Student</p>
     <p>Xiangyue Wang is a DPhil student in the Oxford Power System Architecture Lab (PSAL). His research focuses on quantum computing for optimization in high-renewable power grids. He explores ways to utilize currently available quantum computers to speed up large-scale optimization problems such as optimal power flow that are critical to renewable integration. He won the 2025 international quantum hackathon, Blaise Pasqal Quantum Challenge, with a team of primarily PSAL members. He received his master's degree in data science from New York University, and his undergraduate degree from Rutgers University, where he majored in math, physics and minored in philosophy.
 </p>
+  </div>
+</div>
+
+<h2 class="category">Entrepreneur in Residence</h2>
+
+<div class="person-row person-row-featured" id="alexandria-procter">
+  <div class="person-photo-featured">
+    {% include figure.liquid
+      path="/assets/img/people/Alexandria_Procter_portrait.jpg"
+      alt="Portrait of Alexandria Procter outdoors"
+      sizes="150px"
+    %}
+  </div>
+  <div class="person-bio">
+    <h5>Alexandria Procter</h5>
+    <p class="position">Entrepreneur in Residence</p>
+    <p class="person-links" aria-label="Contact Alexandria Procter">
+      <a href="mailto:alexandria.procter@eng.ox.ac.uk">Email</a>
+      <span aria-hidden="true">·</span>
+      <a href="http://alexandriaprocter.com" target="_blank" rel="noopener noreferrer">Website</a>
+      <span aria-hidden="true">·</span>
+      <a href="https://www.linkedin.com/in/alexandriaprocter/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+    </p>
+    <p>Alexandria Procter is Entrepreneur in Residence at the Power Systems Architecture Lab and the ZERO Institute at the University of Oxford. She works with Professor Thomas Morstyn and Dr Yihong Zhou to commercialise research on intelligent power orchestration and energy optimisation for AI data centres. Alexandria holds an MSc in Sustainability, Enterprise and the Environment from Oxford and a BSc from the University of Cape Town. She founded DigsConnect, an international student accommodation marketplace, and Pharos Ventures, an early-stage impact investment firm. She has served on the boards of South Africa's National Youth Development Agency and Sentech SOC. Her first book, <em>Upstart</em>, became a national bestseller in South Africa.</p>
   </div>
 </div>
 
